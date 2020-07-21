@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Link from "next/link";
-import { getPrefixedPath } from "./prefix";
+import { getPrefixedPath } from "../prefix";
 
 export default function Home() {
   return (
